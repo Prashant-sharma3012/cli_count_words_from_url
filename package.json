@@ -1,0 +1,14 @@
+{
+  "name": "wordcount",
+  "version": "1.0.0",
+  "description": "takes a search string and a URL and returns the count of the search string",
+  "main": "wordcount.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
